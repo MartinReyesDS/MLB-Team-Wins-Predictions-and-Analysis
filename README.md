@@ -6,6 +6,10 @@ by Martin Reyes
 
 Note: project done in [this](https://github.com/prestige-worldwide-1/baseball-project#date-dictionary) repo
 
+**Interactive Player Rankings**
+
+[Explore the 2023 hitter and pitcher rankings](https://martinreyesds.github.io/MLB-Team-Wins-Predictions-and-Analysis/viz/player-rankings.html)
+
 **Description:**
 - In this project, **team pitching stats** and **team batting stats** are used to see which stats lead to more wins. After finding the features that predict wins the most, regression models will be made to predict team wins in a season.
 
